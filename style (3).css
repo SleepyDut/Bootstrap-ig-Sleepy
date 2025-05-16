@@ -1,0 +1,16 @@
+.fa-solid {
+    color: black;
+}
+
+.fa-solid:hover{
+  color: lightskyblue;
+  
+}
+
+.fa-gear {
+    color: white;
+}
+
+.logout {
+    color: red;
+}
